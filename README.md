@@ -29,10 +29,7 @@ The Program must be run with parameters in the following format:
 
 **./Task3.out -key a b -encrypt/-decrypt -in inputFile -out outputFile**
 	
-Eg: 
-**./affineCiph.out -key 3 8 -encrypt -in file1.txt -out file2.txt** 
-Or  
-**./affineCiph.out -key 3 8 -decrypt -in file1.txt -out file2.txt** 
+Eg: **./affineCiph.out -key 3 8 -encrypt -in file1.txt -out file2.txt** Or  **./affineCiph.out -key 3 8 -decrypt -in file1.txt -out file2.txt** 
 
 The order of the parameters (grouped) is variable	
 
